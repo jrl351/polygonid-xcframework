@@ -1,0 +1,4 @@
+module LibPolygonID {
+    header "libpolygonid.h"
+    export *
+}
